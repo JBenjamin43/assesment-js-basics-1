@@ -51,7 +51,9 @@ const pinkPrice = .55
 
 // CODE HERE
 
-
+for(i = 0; i < fujiAcres.length; i++){
+    if()
+}
 
 
 
