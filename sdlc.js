@@ -38,6 +38,7 @@ const testingAndIntergration= "this is the fifth steph where you will be testing
 const Maintain = "in the last phase this is where users discover bugs that were not found during testing and make sure the program is still running properly while planning for future updates"
 
 
+// analysisOfRequirements = "This second step is where we determine what the user expects or needs from a new or modified product. For best effect these requirements should be Documented, actionable, measurable, testable, traceable, and defined to a level sufficient for System Design."
 
-
+//
 

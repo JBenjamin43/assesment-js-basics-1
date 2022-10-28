@@ -47,8 +47,7 @@ for(i = 0; i < bigOrSmallArray.length; i++){
     answer.push('BIG')
   }else if (bigOrSmallArray[i] <= 100) {
     answer.push('small')
-  }else(
-  answer.push('NA'))
+  }
 }
 
 console.log(answer)
